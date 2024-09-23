@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi there! I'm Tracey Pauline Albert! 👋
 # About Me
-My name is Tracey Pauline Albert! 👋 </br>
-- 🌱 I’m currently learning a lot about tech policies at the intersection of technology and sustainable development.
-- 🤔 I’m looking for help with gaining relevant skills in the technical domain while leveraging my sectoral knowledge.
+- 🎓 I’m a second year MPA DP graduate scholar at Columbia University.
+- 🤖 I have an engineering background, but my career has been focused on development practice.
+- 🌱 I am currently learning a lot about the intersection of technology and sustainable development.
+- 🤔 I’m looking for help with gaining relevant skills in the technical domain while leveraging my sectoral knowledge to work on tech policies!
 - 💬 Ask me about Ed tech!
 - 📫 How to reach me: tpa2112@columbia.edu
 - 😄 Pronouns:she/her/hers
