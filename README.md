@@ -1,6 +1,6 @@
 ## Hi there 👋
 # About Me
-Hi! My name is Tracey Pauline Albert! 👋 </br>
+My name is Tracey Pauline Albert! 👋 </br>
 - 🌱 I’m currently learning a lot about tech policies at the intersection of technology and sustainable development.
 - 🤔 I’m looking for help with gaining relevant skills in the technical domain while leveraging my sectoral knowledge.
 - 💬 Ask me about Ed tech!
