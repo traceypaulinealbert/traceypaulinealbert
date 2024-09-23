@@ -1,5 +1,4 @@
 ## Hi there 👋
-Here are some ideas to get you started:
 # About Me
 Hi! My name is Tracey Pauline Albert! 👋 </br>
 - 🌱 I’m currently learning a lot about tech policies at the intersection of technology and sustainable development.
