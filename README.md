@@ -1,10 +1,11 @@
 ## Hi there! I'm Tracey Pauline Albert! 👋
 # About Me
-- 🎓 I’m MPA DP graduate scholar at Columbia University.
+- 🎓 I’m recently graduated with a Masters of Public Adminsitration in Development Practice from Columbia University.
 - 🤖 I have an engineering background, but my career has been focused on development practice.
 - 🌱 I am currently learning a lot about the intersection of technology (specifically AI) and sustainable development.
+- I am passionate about ensuring ethical use of artificial intelligence.
 - 🤔 I’m looking for help with gaining relevant skills in the technical domain while leveraging my sectoral knowledge to work on tech policies!
-- 💬 Ask me about Ed tech!
+- 💬 Ask me about Ed tech and my projects focused on artificial intelligence!
 - 📫 How to reach me: tpa2112@columbia.edu
 - 😄 Pronouns:she/her/hers
 - ⚡ Fun fact: I love coffee and desserts!
